@@ -1,0 +1,73 @@
+{
+  "name": "pliigo-cups-agent",
+  "version": "0.0.4-alpha",
+  "description": "cups printer agent for nodejs",
+  "main": "pliigo-cups-agent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "try": "node index.js",
+    "cli": "pliigo-cups-agent list"
+  },
+  "bin": {
+    "pliigo-cups-agent": "./bin/pliigo-cups-agent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://joeherold@bitbucket.org/joeherold/pliigo-cups-agent.git"
+  },
+  "keywords": [
+    "cups",
+    "printer",
+    "printers",
+    "install",
+    "uninstall",
+    "manage",
+    "shell",
+    "cli",
+    "tool",
+    "pliigo"
+  ],
+  "author": {
+    "name": "Johannes Pichler",
+    "email": "j.pichler@webpixels.at"
+  },
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/joeherold/pliigo-cups-agent#readme",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "commander": "^2.9.0",
+    "inquirer-question": "^1.1.3",
+    "loading-indicator": "^1.2.0",
+    "lodash": "^4.0.1",
+    "marked-man": "^0.1.5",
+    "node-printer": "^1.0.2",
+    "printer": "^0.2.1"
+  },
+  "gitHead": "313c580a2ea2beef6d9a4e7c09cf1961b00c7a95",
+  "_id": "pliigo-cups-agent@0.0.4-alpha",
+  "_shasum": "9e1a91718e6958a360abee89aa36a3844cc551c0",
+  "_from": "pliigo-cups-agent@latest",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "joeherold",
+    "email": "j.pichler@webpixels.at"
+  },
+  "dist": {
+    "shasum": "9e1a91718e6958a360abee89aa36a3844cc551c0",
+    "tarball": "https://registry.npmjs.org/pliigo-cups-agent/-/pliigo-cups-agent-0.0.4-alpha.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "joeherold",
+      "email": "j.pichler@webpixels.at"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/pliigo-cups-agent-0.0.4-alpha.tgz_1454423772461_0.2100652374792844"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/pliigo-cups-agent/-/pliigo-cups-agent-0.0.4-alpha.tgz",
+  "readme": "ERROR: No README data found!"
+}

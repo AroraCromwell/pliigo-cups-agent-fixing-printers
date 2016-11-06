@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pliigo-cups-agent-fixing-printers.iml
+.idea/workspace.xml
+npm-debug.log
+
